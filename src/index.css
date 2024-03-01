@@ -1,0 +1,25 @@
+.task-completion-status {
+    text-decoration: line-through;
+    border: 2px solid white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+body {
+    background-image: url("./assets/images/bg.jpg");
+    background-repeat: initial;
+    background-size: cover;
+}
+
+.add-to-do strong {
+    color: darkgoldenrod;
+}
+
+.add-to-do h4 {
+    color: firebrick;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.add-to-do input {
+    margin: 10px;
+}
